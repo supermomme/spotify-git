@@ -1,8 +1,8 @@
-# (MJP)[https://open.spotify.com/playlist/1dPHFqkoDZnFF7ZZA7DkBg]
+# [MJP](https://open.spotify.com/playlist/1dPHFqkoDZnFF7ZZA7DkBg)
 ## Informations
 <!-- META_BEGIN -->
 - Id: 1dPHFqkoDZnFF7ZZA7DkBg
-- Owner: (mommej)[https://open.spotify.com/user/mommej]
+- Owner: [mommej](https://open.spotify.com/user/mommej)
 - Public: No
 - Track Count: 233
 - Follower Count: 0

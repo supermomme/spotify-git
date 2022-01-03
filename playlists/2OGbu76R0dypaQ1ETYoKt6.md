@@ -1,8 +1,8 @@
-# (BJR)[https://open.spotify.com/playlist/2OGbu76R0dypaQ1ETYoKt6]
+# [BJR](https://open.spotify.com/playlist/2OGbu76R0dypaQ1ETYoKt6)
 ## Informations
 <!-- META_BEGIN -->
 - Id: 2OGbu76R0dypaQ1ETYoKt6
-- Owner: (superbarne)[https://open.spotify.com/user/superbarne]
+- Owner: [superbarne](https://open.spotify.com/user/superbarne)
 - Public: Yes
 - Track Count: 598
 - Follower Count: 14
