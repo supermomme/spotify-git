@@ -57,10 +57,17 @@ const main = async () => {
   const playlistIds = require('./playlists/playlist.json')
   const playlists = []
   for (const playlistId of playlistIds) {
-    const tracks = await getAllTracksOfPlaylist(playlistId)
-    const playlistMeta = await getPlaylistMeta(playlistId)
-    playlists.push(playlistMeta)
-    saveMarkdown(`${__dirname}/playlists/${playlistId}.md`, tracks, playlistMeta)
+    try {
+      console.log(`Get Playlist ${playlistId}`)
+      const tracks = await getAllTracksOfPlaylist(playlistId)
+      const playlistMeta = await getPlaylistMeta(playlistId)
+      playlists.push(playlistMeta)
+      console.log(`Save Markdown for Playlist ${playlistId}`)
+      saveMarkdown(`${__dirname}/playlists/${playlistId}.md`, tracks, playlistMeta)
+    } catch (error) {
+      console.error(`ERROR ON PLAYLIST ${playlistId}`)
+      console.error(error)
+    }
   }
 
   const readmeMarkdownArray = fs.readFileSync('./README.md', 'utf8').split('\n')
