@@ -1,0 +1,16 @@
+{
+  "name": "spotify-playlist-as-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sync": "node sync.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown": "^0.5.0",
+    "spotify-api.js": "^9.0.3",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
