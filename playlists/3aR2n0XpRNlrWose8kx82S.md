@@ -5,7 +5,7 @@
 - Owner: [Dirty Workz](https://open.spotify.com/user/dirtyworkzofficial)
 - Public: Yes
 - Track Count: 100
-- Follower Count: 228632
+- Follower Count: 228631
 <!-- META_END -->
 
 
