@@ -16,7 +16,6 @@ Hier werden bestimmte Playlists jeden Tag gepush, sodass man sich die Änderung 
 - [Devolepment](./playlists/0lWKQuV6eaabPQvGP8MTSr.md) by mommej
 - [ANANAS-PARTY](./playlists/4jw0V6BFkByyfqXrTT9qPC.md) by mommej
 - [Potetiall Drone Music](./playlists/3W7sNMLJIRlUb1riDk9fSF.md) by mommej
-- [Hardstyle Daily](./playlists/3aR2n0XpRNlrWose8kx82S.md) by Dirty Workz
 - [MSS](./playlists/3taOMy0qFGFwCBylw2H5th.md) by mommej
 - [MSM](./playlists/5XqL6fli2qitRvFU3YZmlM.md) by mommej
 - [uff jetzt nightcore?! oder was soll das sein?](./playlists/1Ez9t57gWtblA9NSYpZ6Ya.md) by mommej
