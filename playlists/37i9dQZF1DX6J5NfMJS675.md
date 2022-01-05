@@ -5,7 +5,7 @@
 - Owner: [Spotify](https://open.spotify.com/user/spotify)
 - Public: No
 - Track Count: 60
-- Follower Count: 1769545
+- Follower Count: 1770333
 <!-- META_END -->
 
 
