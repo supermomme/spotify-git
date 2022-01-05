@@ -76,7 +76,7 @@ const main = async () => {
 
   if (endIndex-1 > startIndex) readmeMarkdownArray.splice(startIndex+1, endIndex-startIndex-1) // Clear everything between start and end
 
-  for (const playlist of playlists) {
+  for (const playlist of playlists.reverse()) {
     readmeMarkdownArray.splice(startIndex+1, 0, `- [${playlist.name}](./playlists/${playlist.id}.md) by ${playlist.owner.display_name}`)
   }
   fs.writeFileSync('./README.md', readmeMarkdownArray.join('\n'), 'utf8')
