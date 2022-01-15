@@ -171,7 +171,7 @@
 - (2Dj6VLSxrOpF7YgpDJeaPm) [Zeig deine Muskeln](https://open.spotify.com/track/2Dj6VLSxrOpF7YgpDJeaPm) *by* [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC)
 - (6ctgIS1vouJqYAiuqqwjm1) [Kein Bock](https://open.spotify.com/track/6ctgIS1vouJqYAiuqqwjm1) *by* [MICHAL](https://open.spotify.com/artist/7bDgsuqe0B2xjZF3GQWrTA)
 - (7jY2wjlJ5IfHIlMihHIvRu) [Diadem](https://open.spotify.com/track/7jY2wjlJ5IfHIlMihHIvRu) *by* [Grossstadtgeflüster](https://open.spotify.com/artist/03SZv6slUnLnHI3IfwG0gl)
-- (6Hp57iv0VLGgmWyOFx8iUm) [Burn Butcher Burn](https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm) *by* [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc)
+- (6Hp57iv0VLGgmWyOFx8iUm) [Burn Butcher Burn - from "The Witcher: Season 2" Soundtrack](https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm) *by* [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc)
 - (5VA90lstg6JJGYCUA98gcY) [Sunset](https://open.spotify.com/track/5VA90lstg6JJGYCUA98gcY) *by* [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t)
 - (0rL3oNoi3XecdaHBxtRgdq) [Pfannkuchen](https://open.spotify.com/track/0rL3oNoi3XecdaHBxtRgdq) *by* [The Holy Santa Barbara](https://open.spotify.com/artist/1ZaV7vibPmLl5OCje4RRgZ)
 - (52P6IsUUXpVlYagiqc9lo3) [Unterfickt und geistig behindert](https://open.spotify.com/track/52P6IsUUXpVlYagiqc9lo3) *by* [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05)
