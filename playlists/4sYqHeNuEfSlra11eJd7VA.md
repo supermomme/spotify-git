@@ -18,7 +18,7 @@
 - (5fnA9mkIfScSqHIpeDyvck) [Prayer in C - Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) *by* [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S)
 - (4RdUpI3iTwqzCQe9ttKB5Q) [Other Side of Love](https://open.spotify.com/track/4RdUpI3iTwqzCQe9ttKB5Q) *by* [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9)
 - (1KqlVt63Q4bl1VdSlymr5C) [Riptide](https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C) *by* [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT)
-- (13qqdlSeF8FcxsRyapDMZ0) [Changes](https://open.spotify.com/track/13qqdlSeF8FcxsRyapDMZ0) *by* [Faul & Wad Ad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u)
+- (13qqdlSeF8FcxsRyapDMZ0) [Changes](https://open.spotify.com/track/13qqdlSeF8FcxsRyapDMZ0) *by* [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u)
 - (3tCwjWLicbjsMCvXhN0WOE) [Rude](https://open.spotify.com/track/3tCwjWLicbjsMCvXhN0WOE) *by* [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c)
 - (5Sf3GyLEAzJXxZ5mbCPXTu) [Waves - Robin Schulz Radio Edit](https://open.spotify.com/track/5Sf3GyLEAzJXxZ5mbCPXTu) *by* [Mr. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S)
 - (7EYWEwJyai7udNmqvRPsZM) [Blame (feat. John Newman)](https://open.spotify.com/track/7EYWEwJyai7udNmqvRPsZM) *by* [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf)

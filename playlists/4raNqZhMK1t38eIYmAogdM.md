@@ -98,7 +98,7 @@
 - (7tMTPKTOaJHrMpHhmadyuW) [Wonderful Life](https://open.spotify.com/track/7tMTPKTOaJHrMpHhmadyuW) *by* [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV)
 - (6MG8RgDww18qELuqtVlLh0) [Gammeln Aufn Strand](https://open.spotify.com/track/6MG8RgDww18qELuqtVlLh0) *by* [Andreas Fahnert & The Golden Eckats](https://open.spotify.com/artist/6jCDTKcM52JaNiBJ82h6OJ)
 - (4vxjNphyAqPGR8KpuXPGoi) [Füchse](https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi) *by* [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0)
-- (13qqdlSeF8FcxsRyapDMZ0) [Changes](https://open.spotify.com/track/13qqdlSeF8FcxsRyapDMZ0) *by* [Faul & Wad Ad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u)
+- (13qqdlSeF8FcxsRyapDMZ0) [Changes](https://open.spotify.com/track/13qqdlSeF8FcxsRyapDMZ0) *by* [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u)
 - (6qr9kFtVtM5agnT4pLTyVy) [Help I'm Alive](https://open.spotify.com/track/6qr9kFtVtM5agnT4pLTyVy) *by* [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl)
 - (6fA8wqvcc0LK6ULevDivhi) [Dockyard](https://open.spotify.com/track/6fA8wqvcc0LK6ULevDivhi) *by* [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R)
 - (4OJKPoqK5oMdPmAuT4V8Lg) [Waves - Robin Schulz Radio Edit](https://open.spotify.com/track/4OJKPoqK5oMdPmAuT4V8Lg) *by* [Mr. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S)

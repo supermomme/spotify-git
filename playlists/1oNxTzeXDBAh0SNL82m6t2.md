@@ -56,7 +56,7 @@
 - (0ov4JLCWWosSQ659PFAHQ6) [Wolke 4](https://open.spotify.com/track/0ov4JLCWWosSQ659PFAHQ6) *by* [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa), [Marv](https://open.spotify.com/artist/64hJwJas2snPX2t0qGs1QK)
 - (7tMTPKTOaJHrMpHhmadyuW) [Wonderful Life](https://open.spotify.com/track/7tMTPKTOaJHrMpHhmadyuW) *by* [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV)
 - (6MG8RgDww18qELuqtVlLh0) [Gammeln Aufn Strand](https://open.spotify.com/track/6MG8RgDww18qELuqtVlLh0) *by* [Andreas Fahnert & The Golden Eckats](https://open.spotify.com/artist/6jCDTKcM52JaNiBJ82h6OJ)
-- (13qqdlSeF8FcxsRyapDMZ0) [Changes](https://open.spotify.com/track/13qqdlSeF8FcxsRyapDMZ0) *by* [Faul & Wad Ad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u)
+- (13qqdlSeF8FcxsRyapDMZ0) [Changes](https://open.spotify.com/track/13qqdlSeF8FcxsRyapDMZ0) *by* [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u)
 - (4OJKPoqK5oMdPmAuT4V8Lg) [Waves - Robin Schulz Radio Edit](https://open.spotify.com/track/4OJKPoqK5oMdPmAuT4V8Lg) *by* [Mr. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S)
 - (71brdtkB63LfmeiobYnnWY) [The Mother We Share](https://open.spotify.com/track/71brdtkB63LfmeiobYnnWY) *by* [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)
 - (4TAJ565rMcEnTDnPlYWJPQ) [Recover](https://open.spotify.com/track/4TAJ565rMcEnTDnPlYWJPQ) *by* [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)
