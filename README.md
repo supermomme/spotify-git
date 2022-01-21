@@ -34,5 +34,6 @@ Hier werden bestimmte Playlists jeden Tag gepush, sodass man sich die Änderung 
 - [BJR_MJ](./playlists/4raNqZhMK1t38eIYmAogdM.md) by mommej
 - [O_O](./playlists/0o5gR1hZ4IaehNsBVtR8JQ.md) by mommej
 - [Alpha](./playlists/1oNxTzeXDBAh0SNL82m6t2.md) by mommej
+- [SpMJ](./playlists/0DqefrzsLTSAbU6218m4w9.md) by mommej
 <!-- PLAYLIST_LIST_END -->
 
