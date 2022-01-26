@@ -61,7 +61,7 @@
 - (4bYFkww42FwRWArj8O0QpQ) [Alright](https://open.spotify.com/track/4bYFkww42FwRWArj8O0QpQ) *by* [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d)
 - (1sZgoeJtLh1yqmCFuGhCI4) [Faces](https://open.spotify.com/track/1sZgoeJtLh1yqmCFuGhCI4) *by* [Alec Troniq](https://open.spotify.com/artist/7gY2UGpmfLNKfezQPuG7Hx), [Gabriel Vitel](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x)
 - (1CM16VHSXw4CcvZUPsa8CU) [Tender love](https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU) *by* [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT)
-- (0u834tjHl0zB9xdPO5KrQX) [Perfect Blue](https://open.spotify.com/track/0u834tjHl0zB9xdPO5KrQX) *by* [Elle Valenci](https://open.spotify.com/artist/3glvSAS5Z6057HM9ov0HOt)
+- (0u834tjHl0zB9xdPO5KrQX) [Perfect Blue](https://open.spotify.com/track/0u834tjHl0zB9xdPO5KrQX) *by* [Elle Valenci](https://open.spotify.com/artist/3glvSAS5Z6057HM9ov0HOt), [Lecomte De Brégeot](https://open.spotify.com/artist/0Y3QSSc5Uw3g2ZHPkR2bdA)
 - (6ezfPcUAN8UH6FaQbFfLSp) [Out Here with Us](https://open.spotify.com/track/6ezfPcUAN8UH6FaQbFfLSp) *by* [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr)
 - (0mesXBMiwhSsFjUJNe9k1T) [Kalif Onya](https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T) *by* [Al Pride](https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB)
 - (6stEilqJf8jJmasT6XqFfb) [U-Ser-Name](https://open.spotify.com/track/6stEilqJf8jJmasT6XqFfb) *by* [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp)
