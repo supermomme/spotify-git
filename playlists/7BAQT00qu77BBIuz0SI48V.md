@@ -4,7 +4,7 @@
 - Id: 7BAQT00qu77BBIuz0SI48V
 - Owner: [mommej](https://open.spotify.com/user/mommej)
 - Public: Yes
-- Track Count: 86
+- Track Count: 87
 - Follower Count: 0
 <!-- META_END -->
 
@@ -97,4 +97,5 @@
 - (3gvkqWZ8ShfhMHfcL3oMV2) [What If](https://open.spotify.com/track/3gvkqWZ8ShfhMHfcL3oMV2) *by* [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D)
 - (3z6Xfoc4LyHtElmcHmtK2J) [Mexico](https://open.spotify.com/track/3z6Xfoc4LyHtElmcHmtK2J) *by* [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw)
 - (6HEJavNON4wd0cy1Hp6KV2) [in my mind](https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2) *by* [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos)
+- (4ZVqqf3Eo4uXSeFUrYD5lw) [Mind Doodles](https://open.spotify.com/track/4ZVqqf3Eo4uXSeFUrYD5lw) *by* [Gabriel Vitel](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x), [Alec Troniq](https://open.spotify.com/artist/7gY2UGpmfLNKfezQPuG7Hx)
 <!-- TRACK_LIST_END -->
