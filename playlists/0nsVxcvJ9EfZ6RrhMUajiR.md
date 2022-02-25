@@ -5,7 +5,7 @@
 - Owner: [Jesse](https://open.spotify.com/user/sjfh1guceovah1sxlt3zcetlz)
 - Public: Yes
 - Track Count: 113
-- Follower Count: 1059
+- Follower Count: 1060
 <!-- META_END -->
 
 
