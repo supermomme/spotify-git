@@ -4,7 +4,7 @@
 - Id: 2OGbu76R0dypaQ1ETYoKt6
 - Owner: [superbarne](https://open.spotify.com/user/superbarne)
 - Public: Yes
-- Track Count: 603
+- Track Count: 606
 - Follower Count: 14
 <!-- META_END -->
 
@@ -614,4 +614,7 @@
 - (5XVBtlaKWSojFdzDbz5IWd) [Swimmingpool](https://open.spotify.com/track/5XVBtlaKWSojFdzDbz5IWd) *by* [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB)
 - (6qZPxsDiSNIUEYgakTHak1) [Es heißt, dass sie heiß ist](https://open.spotify.com/track/6qZPxsDiSNIUEYgakTHak1) *by* [Prezident](https://open.spotify.com/artist/0701oFugqkENoPXu4xSmzn)
 - (0duI4HD62BfVNn3LDopvyN) [Sisyphos](https://open.spotify.com/track/0duI4HD62BfVNn3LDopvyN) *by* [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm)
+- (7t9GajKVAloH488rBmVC9J) [Ftf](https://open.spotify.com/track/7t9GajKVAloH488rBmVC9J) *by* [Franniethefirst](https://open.spotify.com/artist/4ze3PkeMRmBsl44k8Oe5Ze)
+- (2GMkfM0eZeLk3A5je7g0ky) [black roses](https://open.spotify.com/track/2GMkfM0eZeLk3A5je7g0ky) *by* [Franniethefirst](https://open.spotify.com/artist/4ze3PkeMRmBsl44k8Oe5Ze), [SnC](https://open.spotify.com/artist/6cwrVW9pAccOxT7Y0ti4id), [Emma Poppins](https://open.spotify.com/artist/1rKWtxn8bAEADmaKltNcmH)
+- (3omXshBamrREltcf24gYDC) [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) *by* [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC)
 <!-- TRACK_LIST_END -->
