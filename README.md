@@ -14,7 +14,6 @@ Hier werden bestimmte Playlists jeden Tag gepush, sodass man sich die Änderung 
 - [BJC](./playlists/2WA4gSm3sRpPV254wWNHm1.md) by superbarne
 - [#Lasse V2](./playlists/5Hnxb4bUBHucIujLqlJ9M9.md) by Lasse Eggers
 - [Sailor](./playlists/0U5kyTxwSBcfdU3J2AeDM7.md) by mommej
-- [MJRun](./playlists/0GdvGuDRzxUR2ae4aCc4iH.md) by mommej
 - [Partyhits 2022  by Adi & Jesse](./playlists/0nsVxcvJ9EfZ6RrhMUajiR.md) by Jesse
 - [Fuck It all...](./playlists/4A9dvoW5KFzGMr9v9ISW8u.md) by mommej
 - [Was1Musik](./playlists/0pBGVWFVP34qSRTzx4YkSV.md) by superbarne
