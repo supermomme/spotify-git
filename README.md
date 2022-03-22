@@ -15,7 +15,6 @@ Hier werden bestimmte Playlists jeden Tag gepush, sodass man sich die Änderung 
 - [#Lasse V2](./playlists/5Hnxb4bUBHucIujLqlJ9M9.md) by Lasse Eggers
 - [Sailor](./playlists/0U5kyTxwSBcfdU3J2AeDM7.md) by mommej
 - [MJRun](./playlists/0GdvGuDRzxUR2ae4aCc4iH.md) by mommej
-- [Partyhits 2022  by Adi & Jesse](./playlists/0nsVxcvJ9EfZ6RrhMUajiR.md) by Jesse
 - [Fuck It all...](./playlists/4A9dvoW5KFzGMr9v9ISW8u.md) by mommej
 - [Was1Musik](./playlists/0pBGVWFVP34qSRTzx4YkSV.md) by superbarne
 - [thores cancer](./playlists/5YtzlwprYyWThdtw3PPMLb.md) by superbarne
@@ -28,6 +27,8 @@ Hier werden bestimmte Playlists jeden Tag gepush, sodass man sich die Änderung 
 - [Devolepment](./playlists/0lWKQuV6eaabPQvGP8MTSr.md) by mommej
 - [Mommes Devmode](./playlists/54leGMs2UnBmGe6KyF6ppa.md) by mommej
 - [⚡️ Ｄｅｖｍｏｄｅ](./playlists/10Hy47H8sUkwMmwOGDotjw.md) by Torge Jürgensen
+- [ahh es sind die drogen](./playlists/5BVsj4l6eXPfN69uX3q5bx.md) by Torge Jürgensen
+- [MJPlaylist](./playlists/4sYqHeNuEfSlra11eJd7VA.md) by mommej
 - [SuperM](./playlists/4eynDUqfGTO9ZChCIBbrob.md) by mommej
 - [BJR_MJ](./playlists/4raNqZhMK1t38eIYmAogdM.md) by mommej
 - [O_O](./playlists/0o5gR1hZ4IaehNsBVtR8JQ.md) by mommej
