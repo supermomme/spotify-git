@@ -25,6 +25,7 @@ Hier werden bestimmte Playlists jeden Tag gepush, sodass man sich die Änderung 
 - [MSS](./playlists/3taOMy0qFGFwCBylw2H5th.md) by mommej
 - [Potetiall Drone Music](./playlists/3W7sNMLJIRlUb1riDk9fSF.md) by mommej
 - [ANANAS-PARTY](./playlists/4jw0V6BFkByyfqXrTT9qPC.md) by mommej
+- [Devolepment](./playlists/0lWKQuV6eaabPQvGP8MTSr.md) by mommej
 - [Mommes Devmode](./playlists/54leGMs2UnBmGe6KyF6ppa.md) by mommej
 - [⚡️ Ｄｅｖｍｏｄｅ](./playlists/10Hy47H8sUkwMmwOGDotjw.md) by Torge Jürgensen
 - [ahh es sind die drogen](./playlists/5BVsj4l6eXPfN69uX3q5bx.md) by Torge Jürgensen
