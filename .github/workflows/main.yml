@@ -21,8 +21,9 @@ jobs:
         SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
         SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
     - name: push
-      uses: actions-x/commit@v2
+      uses: github-actions-x/commit@v2.9
       with:
-        name: Spotify Git Bot
-        email: post+spotifygit@juergensen.me
-        message: Update Playlists
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: main
+        commit-message: 'Update Playlists'
+        rebase: 'true' # pull and rebase before commit
