@@ -4,7 +4,7 @@
 - Id: 0S0IqQawrJdhYOcadAUDIn
 - Owner: [mommej](https://open.spotify.com/user/mommej)
 - Public: Yes
-- Track Count: 175
+- Track Count: 180
 - Follower Count: 0
 <!-- META_END -->
 
@@ -117,9 +117,9 @@
 - (47SzDkNRTrONzjdWgulkG9) [What AfD thinks we do...](https://open.spotify.com/track/47SzDkNRTrONzjdWgulkG9) *by* [AKNE KID JOE](https://open.spotify.com/artist/7gc8dP95DhyLjx5QZMNM3z)
 - (4mOxyrGUhvVHw1TWEdBiz2) [Château Lafite](https://open.spotify.com/track/4mOxyrGUhvVHw1TWEdBiz2) *by* [Bonaparte](https://open.spotify.com/artist/2jwl8DJIsmnFbA5vPdGSCy)
 - (1e0CFUq28CpeVtaZcZ96mZ) [Alles zieht vorbei](https://open.spotify.com/track/1e0CFUq28CpeVtaZcZ96mZ) *by* [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt), [Dirk von Lowtzow](https://open.spotify.com/artist/4iThdARg7lrGGuvBkWhVLm)
-- (7DOVJKwRr3EtQpZZuzznad) [Bitte brich mein Herz nicht Baby](https://open.spotify.com/track/7DOVJKwRr3EtQpZZuzznad) *by* [Left Boy](https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ)
+- (7DOVJKwRr3EtQpZZuzznad) [Bitte brich mein Herz nicht Baby](https://open.spotify.com/track/7DOVJKwRr3EtQpZZuzznad) *by* [Ferdinand fka Left Boy](https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ)
 - (6t1ahr2f1t9iSjjNFwFb4C) [Jungle](https://open.spotify.com/track/6t1ahr2f1t9iSjjNFwFb4C) *by* [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf)
-- (5slOKKUV6EuZzzhz7yv4pr) [17](https://open.spotify.com/track/5slOKKUV6EuZzzhz7yv4pr) *by* [Left Boy](https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ)
+- (5slOKKUV6EuZzzhz7yv4pr) [17](https://open.spotify.com/track/5slOKKUV6EuZzzhz7yv4pr) *by* [Ferdinand fka Left Boy](https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ)
 - (4yyDboGjMvnIkQ0Vp1zQjn) [Rennrad](https://open.spotify.com/track/4yyDboGjMvnIkQ0Vp1zQjn) *by* [Dota Kehr](https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga)
 - (4cX1hCkQOOP2712Cr2VmwT) [Stille Wasser](https://open.spotify.com/track/4cX1hCkQOOP2712Cr2VmwT) *by* [ALLES SOLAR](https://open.spotify.com/artist/7oYqhJ3oUvX07uuUSTgp7Z)
 - (6BXyD6UUPizpRpA7iOi99r) [In meinem Benz](https://open.spotify.com/track/6BXyD6UUPizpRpA7iOi99r) *by* [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6)
@@ -174,8 +174,8 @@
 - (6Hp57iv0VLGgmWyOFx8iUm) [Burn Butcher Burn - from "The Witcher: Season 2" Soundtrack](https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm) *by* [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc)
 - (5VA90lstg6JJGYCUA98gcY) [Sunset](https://open.spotify.com/track/5VA90lstg6JJGYCUA98gcY) *by* [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t)
 - (0rL3oNoi3XecdaHBxtRgdq) [Pfannkuchen](https://open.spotify.com/track/0rL3oNoi3XecdaHBxtRgdq) *by* [The Holy Santa Barbara](https://open.spotify.com/artist/1ZaV7vibPmLl5OCje4RRgZ)
-- (6Jg6VaDujqzYTTS64Z22Jp) [Einzelfall](https://open.spotify.com/track/6Jg6VaDujqzYTTS64Z22Jp) *by* [Björn Peng](https://open.spotify.com/artist/0bpVfnAjpr7PeTcyxMoAYK), [Beckx](https://open.spotify.com/artist/3KVxJTyE3U4rS2W7s6fdz8), [Torsun](https://open.spotify.com/artist/4NfVRNtGQjNNmrhPOsmzk8)
-- (0u14HDrI1EBEdBjTU6i1ka) [Catcall](https://open.spotify.com/track/0u14HDrI1EBEdBjTU6i1ka) *by* [Björn Peng](https://open.spotify.com/artist/0bpVfnAjpr7PeTcyxMoAYK), [DREGS](https://open.spotify.com/artist/5ZAxh3bBVnQcFaRdNVFqJC)
+- (6Jg6VaDujqzYTTS64Z22Jp) [Einzelfall](https://open.spotify.com/track/6Jg6VaDujqzYTTS64Z22Jp) *by* [Björn Peng](https://open.spotify.com/artist/0bpVfnAjpr7PeTcyxMoAYK), [Beckx](https://open.spotify.com/artist/3KVxJTyE3U4rS2W7s6fdz8), [Torsun](https://open.spotify.com/artist/7zXEvmtK0hsWx7Lu6HyrwR)
+- (0u14HDrI1EBEdBjTU6i1ka) [Catcall](https://open.spotify.com/track/0u14HDrI1EBEdBjTU6i1ka) *by* [Björn Peng](https://open.spotify.com/artist/0bpVfnAjpr7PeTcyxMoAYK), [Dregs](https://open.spotify.com/artist/1b0cp0ueWSGFPYsaCavBE6)
 - (0sP5kWa0azj9ucsZCSQxUS) [Ich find dich scheisse](https://open.spotify.com/track/0sP5kWa0azj9ucsZCSQxUS) *by* [Tic Tac Toe](https://open.spotify.com/artist/5XnFuuoYBIcNCE4Q9J06lC)
 - (2mFaAyxMvTr9q2Na0A0TLC) [Zieh die Schuh aus](https://open.spotify.com/track/2mFaAyxMvTr9q2Na0A0TLC) *by* [Roger Cicero](https://open.spotify.com/artist/2pR1RkvFKvb2KWSjrbCIP2)
 - (6kMO1GdiFlxinsZ472HbVo) [Blaulicht](https://open.spotify.com/track/6kMO1GdiFlxinsZ472HbVo) *by* [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt)
@@ -186,4 +186,9 @@
 - (1A3oOqPJ99b8rwxYqMmqBe) [Wenn Du weinst](https://open.spotify.com/track/1A3oOqPJ99b8rwxYqMmqBe) *by* [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa)
 - (39FUd9QsvtOBqa49TMuY3M) [Männer 2.0](https://open.spotify.com/track/39FUd9QsvtOBqa49TMuY3M) *by* [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa)
 - (76h1lQDvjcLJAVV7Ipzbc6) [Gewitter](https://open.spotify.com/track/76h1lQDvjcLJAVV7Ipzbc6) *by* [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa)
+- (5FrHxmppmFqXh1UnJnxsbp) [Das Leben ist dumm](https://open.spotify.com/track/5FrHxmppmFqXh1UnJnxsbp) *by* [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt), [Edgar Wasser](https://open.spotify.com/artist/6qIHycJGyzIFBCXc0kg9cM)
+- (11a1uU1B1W8X39O90vUvJN) [Lied des Jahres 2020](https://open.spotify.com/track/11a1uU1B1W8X39O90vUvJN) *by* [Weekend](https://open.spotify.com/artist/2bIsBfbHR5YjmBUa646ZoF), [Tiemo Hauer](https://open.spotify.com/artist/57Yv5pZCU5qF7DELalRFXa)
+- (6SweHmEqP8dq4k9tkanykm) [Narbenherz](https://open.spotify.com/track/6SweHmEqP8dq4k9tkanykm) *by* [Michèl von Wussow](https://open.spotify.com/artist/7k6zsh0jYsjmoVJGIoqJ9f)
+- (33wIhFOt7PEUO5fyCDh1R6) [Niemals](https://open.spotify.com/track/33wIhFOt7PEUO5fyCDh1R6) *by* [MARISABELLE](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH)
+- (6QPSEohjcSqmbuICUkhD0K) [Fuck Rock n Roll](https://open.spotify.com/track/6QPSEohjcSqmbuICUkhD0K) *by* [Alligatoah](https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb)
 <!-- TRACK_LIST_END -->
