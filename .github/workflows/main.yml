@@ -26,4 +26,5 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         push-branch: main
         commit-message: 'Update Playlists'
-        rebase: 'true' # pull and rebase before commit
+        name: Spotify Git
+        email: post+spofitygit@juergensen.me 
