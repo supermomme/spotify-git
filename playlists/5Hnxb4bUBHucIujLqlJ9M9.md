@@ -4,7 +4,7 @@
 - Id: 5Hnxb4bUBHucIujLqlJ9M9
 - Owner: [Lasse Eggers](https://open.spotify.com/user/eggii55)
 - Public: Yes
-- Track Count: 22
+- Track Count: 25
 - Follower Count: 15
 <!-- META_END -->
 
@@ -33,4 +33,7 @@
 - (4LRPiXqCikLlN15c3yImP7) [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) *by* [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3)
 - (5fwSHlTEWpluwOM0Sxnh5k) [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) *by* [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO)
 - (4FXX4P3dxc1JMBx5wVRJ5N) [LEBENSLANG - HBz Remix](https://open.spotify.com/track/4FXX4P3dxc1JMBx5wVRJ5N) *by* [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac), [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ)
+- (2uQ30aq82tR0xeZskWjTgN) [Beichte](https://open.spotify.com/track/2uQ30aq82tR0xeZskWjTgN) *by* [Julien Bam](https://open.spotify.com/artist/5Jm4syNxe3BMFMlgPajszM)
+- (59MVohcr4ayOZvXW51QU4Z) [Cool & Fresh](https://open.spotify.com/track/59MVohcr4ayOZvXW51QU4Z) *by* [Julien Bam](https://open.spotify.com/artist/5Jm4syNxe3BMFMlgPajszM), [Julia Beautx](https://open.spotify.com/artist/6j90FihrvT1wUrJlDRxZdk)
+- (1PlLuGYpkeEqmuKVwQx8wl) [Gästeliste +1](https://open.spotify.com/track/1PlLuGYpkeEqmuKVwQx8wl) *by* [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ)
 <!-- TRACK_LIST_END -->
