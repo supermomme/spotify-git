@@ -33,7 +33,7 @@
 - (1QH6osxkowQm4nkulzn7wX) [Tanzt du noch einmal mit mir?](https://open.spotify.com/track/1QH6osxkowQm4nkulzn7wX) *by* [Broilers](https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J)
 - (3NIDOSThELMihLSOMZcL4k) [Hurra die Welt geht unter](https://open.spotify.com/track/3NIDOSThELMihLSOMZcL4k) *by* [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay)
 - (51Rd25n8yCtiHwIewVovo0) [Antifascista](https://open.spotify.com/track/51Rd25n8yCtiHwIewVovo0) *by* [ZSK](https://open.spotify.com/artist/1uVlxzx7r6LBQsY4yqyxSa)
-- (3ZHZP5rXlVXGjwieQugDDU) [Antifaschist](https://open.spotify.com/track/3ZHZP5rXlVXGjwieQugDDU) *by* [Irie Révoltés](https://open.spotify.com/artist/2xU1DzacdEgPLClHtH48E1)
+- (3ZHZP5rXlVXGjwieQugDDU) [Antifaschist](https://open.spotify.com/track/3ZHZP5rXlVXGjwieQugDDU) *by* [Irie Révoltés](https://open.spotify.com/artist/2xU1DzacdEgPLClHtH48E1), [Mal Élevé](https://open.spotify.com/artist/3PHJkWqkPIHfhQbtkXU3dN)
 - (1IcvxMrdDxWq7mUssFSDOg) [Alles auf Rausch](https://open.spotify.com/track/1IcvxMrdDxWq7mUssFSDOg) *by* [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31)
 - (0eLYvViVpIkau96EI76L6z) [Schüsse in die Luft](https://open.spotify.com/track/0eLYvViVpIkau96EI76L6z) *by* [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4)
 - (2ODEinw1tLfzlyMdOjr2dp) [Traum von Freiheit](https://open.spotify.com/track/2ODEinw1tLfzlyMdOjr2dp) *by* [Betontod](https://open.spotify.com/artist/1yHqgdbtHjBHnyc1Qk0b1f)

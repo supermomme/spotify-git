@@ -6,6 +6,7 @@ Hier werden bestimmte Playlists jeden Tag gepush, sodass man sich die Änderung 
 ## Playlists
 <!-- PLAYLIST_LIST_START -->
 - [MJP](./playlists/1dPHFqkoDZnFF7ZZA7DkBg.md) by mommej
+- [BJR](./playlists/2OGbu76R0dypaQ1ETYoKt6.md) by superbarne
 - [MJT](./playlists/22LdnRcRxREb7OU1Cnmc87.md) by mommej
 - [MJH](./playlists/1g0X4ss7beyVCVrdGGmBLd.md) by mommej
 - [stuff](./playlists/0S0IqQawrJdhYOcadAUDIn.md) by mommej
