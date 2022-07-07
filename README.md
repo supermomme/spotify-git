@@ -7,7 +7,9 @@ Hier werden bestimmte Playlists jeden Tag gepush, sodass man sich die Änderung 
 <!-- PLAYLIST_LIST_START -->
 - [MJP](./playlists/1dPHFqkoDZnFF7ZZA7DkBg.md) by mommej
 - [BJR](./playlists/2OGbu76R0dypaQ1ETYoKt6.md) by superbarne
+- [MJT](./playlists/22LdnRcRxREb7OU1Cnmc87.md) by mommej
 - [MJH](./playlists/1g0X4ss7beyVCVrdGGmBLd.md) by mommej
+- [stuff](./playlists/0S0IqQawrJdhYOcadAUDIn.md) by mommej
 - [MJC](./playlists/7BAQT00qu77BBIuz0SI48V.md) by mommej
 - [BJC](./playlists/2WA4gSm3sRpPV254wWNHm1.md) by superbarne
 - [#Lasse V2](./playlists/5Hnxb4bUBHucIujLqlJ9M9.md) by Lasse Eggers
