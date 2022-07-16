@@ -142,7 +142,7 @@
 - (5c3le7DYW8Iv0gaNeJyDOw) [Du schreibst Geschichte](https://open.spotify.com/track/5c3le7DYW8Iv0gaNeJyDOw) *by* [Madsen](https://open.spotify.com/artist/1LsT3D414izg8h3K1VbrL4)
 - (5fnA9mkIfScSqHIpeDyvck) [Prayer in C - Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) *by* [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S)
 - (6xG2ZGudUgtV235xvDlSEt) [Pokemon Theme](https://open.spotify.com/track/6xG2ZGudUgtV235xvDlSEt) *by* [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk)
-- (2tF0PAIfuHnFq5UUmC8uaF) [GZSZ](https://open.spotify.com/track/2tF0PAIfuHnFq5UUmC8uaF) *by* [Laas Unltd.](https://open.spotify.com/artist/5ZDBkifba6O2TRqyzxGuoq)
+- (2tF0PAIfuHnFq5UUmC8uaF) [GZSZ](https://open.spotify.com/track/2tF0PAIfuHnFq5UUmC8uaF) *by* [LAAS](https://open.spotify.com/artist/5ZDBkifba6O2TRqyzxGuoq)
 - (2WRaH67caslkj50Tj7zXW0) [Johnny B.](https://open.spotify.com/track/2WRaH67caslkj50Tj7zXW0) *by* [The Hooters](https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1)
 - (4YujhI19uY6BMdOohvNtJV) [Porcelain - Final Chill out Mix](https://open.spotify.com/track/4YujhI19uY6BMdOohvNtJV) *by* [Moonage 511](https://open.spotify.com/artist/64VLxpDQEGRCvBuIccHGlk)
 - (1VdZ0vKfR5jneCmWIUAMxK) [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) *by* [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V)

@@ -77,7 +77,7 @@
 - (0DbhBvuZpoFRR44KQimNvU) [Netzwerk (Falls Like Rain)](https://open.spotify.com/track/0DbhBvuZpoFRR44KQimNvU) *by* [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo)
 - (5c3le7DYW8Iv0gaNeJyDOw) [Du schreibst Geschichte](https://open.spotify.com/track/5c3le7DYW8Iv0gaNeJyDOw) *by* [Madsen](https://open.spotify.com/artist/1LsT3D414izg8h3K1VbrL4)
 - (5fnA9mkIfScSqHIpeDyvck) [Prayer in C - Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) *by* [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S)
-- (2tF0PAIfuHnFq5UUmC8uaF) [GZSZ](https://open.spotify.com/track/2tF0PAIfuHnFq5UUmC8uaF) *by* [Laas Unltd.](https://open.spotify.com/artist/5ZDBkifba6O2TRqyzxGuoq)
+- (2tF0PAIfuHnFq5UUmC8uaF) [GZSZ](https://open.spotify.com/track/2tF0PAIfuHnFq5UUmC8uaF) *by* [LAAS](https://open.spotify.com/artist/5ZDBkifba6O2TRqyzxGuoq)
 - (2WRaH67caslkj50Tj7zXW0) [Johnny B.](https://open.spotify.com/track/2WRaH67caslkj50Tj7zXW0) *by* [The Hooters](https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1)
 - (22RL4lzefDSzguxQ5zvYH3) [Hero Of War](https://open.spotify.com/track/22RL4lzefDSzguxQ5zvYH3) *by* [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O)
 - (3OoTmMG1o4JISE8xW9bgjB) [Dafür lebe ich](https://open.spotify.com/track/3OoTmMG1o4JISE8xW9bgjB) *by* [Fabian Römer](https://open.spotify.com/artist/1AzY6fJYpYIOxfckbx2iRn)
