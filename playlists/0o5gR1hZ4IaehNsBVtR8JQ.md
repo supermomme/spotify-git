@@ -5,7 +5,7 @@
 - Owner: [mommej](https://open.spotify.com/user/mommej)
 - Public: No
 - Track Count: 6
-- Follower Count: 0
+- Follower Count: null
 <!-- META_END -->
 
 
