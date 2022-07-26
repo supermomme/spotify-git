@@ -5,7 +5,7 @@
 - Owner: [Lasse Eggers](https://open.spotify.com/user/eggii55)
 - Public: Yes
 - Track Count: 23
-- Follower Count: 15
+- Follower Count: null
 <!-- META_END -->
 
 
